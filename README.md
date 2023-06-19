@@ -1,4 +1,5 @@
 # Game_Controller
+![image](https://github.com/TangChiaChien/Game_Controller/blob/main/demo.png)
  Use FreeRTOS as the operating system, along with STM32, to create a simple game controller.
 
 * IDE：STM32CubeIDE 1.8.0
